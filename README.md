@@ -1,8 +1,6 @@
 ### Hexlet tests and linter status:
 [![Actions Status](https://github.com/sherifbea1/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/sherifbea1/python-project-49/actions)
 ([![Maintainability Rating](https://sonarcloud.io/api/project_badges/measure?project=sherifbea1_python-project-49&metric=sqale_rating)](https://sonarcloud.io/summary/new_code?id=sherifbea1_python-project-49))
-[![Test Coverage](https://api.codeclimate.com/v1/badges/YOUR_CODECLIMATE_ID/test_coverage)](https://codeclimate.com/github/sherifbea1/python-project-49/test_coverage)
-[![Sonar Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=sherifbea1_python-project-49&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=sherifbea1_python-project-49)
 
 #### Brain games:
 A set of five command-line math/logic mini-games. Each game asks a user a series of questions which must be answered correctly to win.
