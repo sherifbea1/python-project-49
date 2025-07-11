@@ -2,6 +2,7 @@ import random
 
 RULES = "What is the result of the expression?"
 
+
 def get_round():
     num1 = random.randint(1, 20)
     num2 = random.randint(1, 20)

@@ -2,6 +2,7 @@ import random
 
 RULES = 'Answer "yes" if given number is prime. Otherwise answer "no".'
 
+
 def is_prime(n, k=5):
     if n <= 1:
         return False
@@ -29,6 +30,7 @@ def is_prime(n, k=5):
         else:
             return False
     return True
+
 
 def get_round():
     number = random.randint(2, 1000)
